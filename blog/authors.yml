@@ -10,8 +10,8 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
+minwoo:
+  name: Minwoo
   title: Docusaurus maintainer
   url: https://sebastienlorber.com
   image_url: https://github.com/slorber.png
@@ -21,5 +21,5 @@ slorber:
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
-    github: slorber
+    github: mandooplz
     newsletter: https://thisweekinreact.com
